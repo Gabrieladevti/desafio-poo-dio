@@ -68,7 +68,6 @@ Linguagens compiladas: C, C++, Pascal, D, GO, etc.<br>
 Linguagens Interpretadas: Python, Ruby, PHP, Javascript, etc.<br>
 Linguagens Hibridas: Java, Erlang, Elixir, etc.<br>
 
-
 <h3> ✨ PARADIGMA DE LINGUAGEM DE PROGRAMAÇÃO</h3> 
 
 É um conjunto de características que podem ser utilizados para categorizar determinado grupo de linguagens. Um paradigma pode oferecer técnicas apropriadas para uma aplicação específica.<br>
