@@ -41,11 +41,6 @@ Objeto em ciência da computação, é uma referência a um local da memória qu
 <h3>🔻 INSTÂNCIA: </h3>
 Uma instância de uma classe é um novo objeto criado dessa classe, com o operador new. Instanciar uma classe é criar um novo objeto do mesmo tipo dessa classe. Uma classe somente poderá ser utilizada após ser instanciada.
 
-</p>
-    
-------------
-<br>
-
 <h2> 🧮 Linguagem de Programação vs Paradigma de Linguagem de Programação</h2>
 
 <p>
